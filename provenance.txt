@@ -1,0 +1,38 @@
+Template info:
+
+Group: atomisthqa
+Name: spring-rest-service
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: atomisthqa
+Repo: spring-rest-service2
+Branch: master
+Path (within repo): 
+sha: 53e3aaddf5516d30f5968290aafef251168de31e
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.atomist'
+team-id='T1L0VDKJP'
+name='jim3'
+template='spring-rest-service'
+user-id='U1L8JQMTJ'
+group_id='atomist'
+org='atomisthqa'
+version='0.0.1'
+artifact_id='jim3'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='03 07 2016 '
+configuration_class_name='Jim3Configuration'
+package_path='com/atomist'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='Jim3OutOfContainerIntegrationTests'
+application_name='Jim3'
+application_class_name='Jim3Application'
+startup_test_name='Jim3ApplicationTests'
+web_integration_test_name='Jim3WebIntegrationTests'
